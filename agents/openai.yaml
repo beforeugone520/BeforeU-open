@@ -1,0 +1,4 @@
+interface:
+  display_name: "BeforeU-open"
+  short_description: "生成开卷考试打印资料包"
+  default_prompt: "Use $beforeu-open 帮我把课程 PDF/PPTX 整理成紧凑的开卷考试打印资料包。"

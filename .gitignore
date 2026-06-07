@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+开卷考输出-*/
+_support/
+*.tmp
+*.log
+
