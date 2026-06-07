@@ -140,9 +140,21 @@ python3 scripts/install_dependencies.py
 
 这个脚本会尝试自动安装 PyMuPDF；LibreOffice、Typst、officecli 这类系统工具会输出对应安装命令，需要按本机环境手动处理。
 
-### 5. 安装为 Codex Skill
+### 5. 安装 Skill
 
-推荐直接克隆到 Codex skills 目录：
+推荐直接把项目地址发给你正在使用的 agent，让它自动安装：
+
+```text
+https://github.com/beforeugone520/BeforeU-open 帮我安装这个 skill 吧
+```
+
+这句话适合发给 Codex、Claude Code、OpenCode 等支持本地 skill 的 agent。安装后，用下面这句话检查它是否已经识别：
+
+```text
+你能使用 beforeu-open 这个 skill 吗？
+```
+
+也可以手动克隆到 Codex skills 目录：
 
 ```bash
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
