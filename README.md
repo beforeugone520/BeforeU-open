@@ -1,10 +1,14 @@
-# BeforeU-open
+<h1 align="center">BeforeU-open</h1>
 
-![License: MIT](https://img.shields.io/badge/license-MIT-111111.svg)
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB.svg)
-![Codex Skill](https://img.shields.io/badge/Codex-Skill-0B5FFF.svg)
+<p align="center">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-111111.svg">
+  <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-3776AB.svg">
+  <img alt="Codex Skill" src="https://img.shields.io/badge/Codex-Skill-0B5FFF.svg">
+</p>
 
-把课程 PDF、PPT、PPTX 整理成适合开卷考试使用的打印资料包：压缩课件、标清页码、生成目录，再用 AI 整理课程重点和关键词索引。
+<p align="center">
+  把课程 PDF、PPT、PPTX 整理成适合开卷考试使用的打印资料包：压缩课件、标清页码、生成目录，再用 AI 整理课程重点和关键词索引。
+</p>
 
 ![BeforeU-open 导入 meme](assets/beforeu-open-import-meme.png)
 
